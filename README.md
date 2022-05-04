@@ -21,7 +21,7 @@ Designed for record keeping in a medical clinic, in order to allow patients to r
 - <b>Node js</b>
 - <b>Postman </b>
 
-<h2>Lab walk-through:</h2>
+<h2>Highlights:</h2>
 
 <p align="center">
 Create Virtual Machine: Open Firewall to public internep traffic <br/>
