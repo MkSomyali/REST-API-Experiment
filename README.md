@@ -9,6 +9,7 @@ Designed for record keeping in a medical clinic, in order to allow patients to r
 <h2>Languages Used</h2>
 
 - <b>PowerShell</b>
+- <b>JSON</b>
 
 <h2>Environments Used </h2>
 
